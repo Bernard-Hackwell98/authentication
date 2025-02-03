@@ -8,4 +8,4 @@ const SessionWrapper = ({children}) => {
   )
 }
 
-export default SessionWrapper
+export default SessionWrapper;
